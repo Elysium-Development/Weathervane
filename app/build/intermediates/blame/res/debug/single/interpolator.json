@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/jay/Downloads/Weathervane/app/build/intermediates/res/merged/debug/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/home/jay/.android/build-cache/b2088a6e84a4bfcaca9b2a008652228677c2c888/output/res/interpolator/mr_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/home/jay/Downloads/Weathervane/app/build/intermediates/res/merged/debug/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/home/jay/.android/build-cache/b2088a6e84a4bfcaca9b2a008652228677c2c888/output/res/interpolator/mr_linear_out_slow_in.xml"
+    }
+]

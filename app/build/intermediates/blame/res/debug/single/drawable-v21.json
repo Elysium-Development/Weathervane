@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/jay/Downloads/Weathervane/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/jay/.android/build-cache/a35e7b29cc2a2a7e6790925b85102d2b8871e42d/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/jay/Downloads/Weathervane/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/jay/.android/build-cache/a35e7b29cc2a2a7e6790925b85102d2b8871e42d/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/jay/Downloads/Weathervane/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/jay/.android/build-cache/a35e7b29cc2a2a7e6790925b85102d2b8871e42d/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/jay/Downloads/Weathervane/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/jay/.android/build-cache/a35e7b29cc2a2a7e6790925b85102d2b8871e42d/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

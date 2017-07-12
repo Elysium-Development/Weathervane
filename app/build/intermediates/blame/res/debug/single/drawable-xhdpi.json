@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/home/jay/Downloads/Weathervane/app/build/intermediates/res/merged/debug/drawable-xhdpi/thunder_lightning_mini.png",
+        "source": "/home/jay/Downloads/Weathervane/app/src/main/res/drawable-xhdpi/thunder_lightning_mini.png"
+    },
+    {
+        "merged": "/home/jay/Downloads/Weathervane/app/build/intermediates/res/merged/debug/drawable-xhdpi/more_btn.png",
+        "source": "/home/jay/Downloads/Weathervane/app/src/main/res/drawable-xhdpi/more_btn.png"
+    },
+    {
+        "merged": "/home/jay/Downloads/Weathervane/app/build/intermediates/res/merged/debug/drawable-xhdpi/partially_cloudy.png",
+        "source": "/home/jay/Downloads/Weathervane/app/src/main/res/drawable-xhdpi/partially_cloudy.png"
+    },
+    {
+        "merged": "/home/jay/Downloads/Weathervane/app/build/intermediates/res/merged/debug/drawable-xhdpi/sunny_mini.png",
+        "source": "/home/jay/Downloads/Weathervane/app/src/main/res/drawable-xhdpi/sunny_mini.png"
+    },
+    {
+        "merged": "/home/jay/Downloads/Weathervane/app/build/intermediates/res/merged/debug/drawable-xhdpi/snow.png",
+        "source": "/home/jay/Downloads/Weathervane/app/src/main/res/drawable-xhdpi/snow.png"
+    },
+    {
+        "merged": "/home/jay/Downloads/Weathervane/app/build/intermediates/res/merged/debug/drawable-xhdpi/cloudy_mini.png",
+        "source": "/home/jay/Downloads/Weathervane/app/src/main/res/drawable-xhdpi/cloudy_mini.png"
+    },
+    {
+        "merged": "/home/jay/Downloads/Weathervane/app/build/intermediates/res/merged/debug/drawable-xhdpi/funshine_logo.png",
+        "source": "/home/jay/Downloads/Weathervane/app/src/main/res/drawable-xhdpi/funshine_logo.png"
+    },
+    {
+        "merged": "/home/jay/Downloads/Weathervane/app/build/intermediates/res/merged/debug/drawable-xhdpi/snow_mini.png",
+        "source": "/home/jay/Downloads/Weathervane/app/src/main/res/drawable-xhdpi/snow_mini.png"
+    },
+    {
+        "merged": "/home/jay/Downloads/Weathervane/app/build/intermediates/res/merged/debug/drawable-xhdpi/sunny.png",
+        "source": "/home/jay/Downloads/Weathervane/app/src/main/res/drawable-xhdpi/sunny.png"
+    },
+    {
+        "merged": "/home/jay/Downloads/Weathervane/app/build/intermediates/res/merged/debug/drawable-xhdpi/rainy.png",
+        "source": "/home/jay/Downloads/Weathervane/app/src/main/res/drawable-xhdpi/rainy.png"
+    },
+    {
+        "merged": "/home/jay/Downloads/Weathervane/app/build/intermediates/res/merged/debug/drawable-xhdpi/rainy_mini.png",
+        "source": "/home/jay/Downloads/Weathervane/app/src/main/res/drawable-xhdpi/rainy_mini.png"
+    },
+    {
+        "merged": "/home/jay/Downloads/Weathervane/app/build/intermediates/res/merged/debug/drawable-xhdpi/thunder_lightning.png",
+        "source": "/home/jay/Downloads/Weathervane/app/src/main/res/drawable-xhdpi/thunder_lightning.png"
+    },
+    {
+        "merged": "/home/jay/Downloads/Weathervane/app/build/intermediates/res/merged/debug/drawable-xhdpi/cloudy.png",
+        "source": "/home/jay/Downloads/Weathervane/app/src/main/res/drawable-xhdpi/cloudy.png"
+    },
+    {
+        "merged": "/home/jay/Downloads/Weathervane/app/build/intermediates/res/merged/debug/drawable-xhdpi/partially_cloudy_mini.png",
+        "source": "/home/jay/Downloads/Weathervane/app/src/main/res/drawable-xhdpi/partially_cloudy_mini.png"
+    }
+]

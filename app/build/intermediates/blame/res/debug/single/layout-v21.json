@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/jay/Downloads/Weathervane/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/jay/.android/build-cache/a35e7b29cc2a2a7e6790925b85102d2b8871e42d/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/jay/Downloads/Weathervane/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/jay/.android/build-cache/a35e7b29cc2a2a7e6790925b85102d2b8871e42d/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/jay/Downloads/Weathervane/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/jay/.android/build-cache/a35e7b29cc2a2a7e6790925b85102d2b8871e42d/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/jay/Downloads/Weathervane/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/home/jay/.android/build-cache/aeac3edba005a3e10078d5109c33718bad02e1c3/output/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/home/jay/Downloads/Weathervane/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/jay/.android/build-cache/a35e7b29cc2a2a7e6790925b85102d2b8871e42d/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

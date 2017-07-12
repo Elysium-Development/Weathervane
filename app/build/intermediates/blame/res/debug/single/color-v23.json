@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/jay/Downloads/Weathervane/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/jay/.android/build-cache/a35e7b29cc2a2a7e6790925b85102d2b8871e42d/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/jay/Downloads/Weathervane/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/jay/.android/build-cache/a35e7b29cc2a2a7e6790925b85102d2b8871e42d/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/jay/Downloads/Weathervane/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/jay/.android/build-cache/a35e7b29cc2a2a7e6790925b85102d2b8871e42d/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/jay/Downloads/Weathervane/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/jay/.android/build-cache/a35e7b29cc2a2a7e6790925b85102d2b8871e42d/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/jay/Downloads/Weathervane/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/jay/.android/build-cache/a35e7b29cc2a2a7e6790925b85102d2b8871e42d/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/jay/Downloads/Weathervane/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/jay/.android/build-cache/a35e7b29cc2a2a7e6790925b85102d2b8871e42d/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/jay/Downloads/Weathervane/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/jay/.android/build-cache/a35e7b29cc2a2a7e6790925b85102d2b8871e42d/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/jay/Downloads/Weathervane/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/jay/.android/build-cache/a35e7b29cc2a2a7e6790925b85102d2b8871e42d/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/jay/Downloads/Weathervane/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/jay/.android/build-cache/a35e7b29cc2a2a7e6790925b85102d2b8871e42d/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/jay/Downloads/Weathervane/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/jay/.android/build-cache/a35e7b29cc2a2a7e6790925b85102d2b8871e42d/output/res/color-v23/abc_tint_edittext.xml"
+    }
+]

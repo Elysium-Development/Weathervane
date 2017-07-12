@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/jay/Downloads/Weathervane/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/jay/.android/build-cache/a35e7b29cc2a2a7e6790925b85102d2b8871e42d/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/jay/Downloads/Weathervane/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/jay/.android/build-cache/a35e7b29cc2a2a7e6790925b85102d2b8871e42d/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
